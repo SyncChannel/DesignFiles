@@ -8,4 +8,8 @@ ST STM32F030F4P6 TSSOP-20<br>
 MicroChip RN2483/RN2903 LoRaWAN Module<br>
 1x12 and 1x16 pin 0.1" SMD Headers<br>
 ATtiny102 SO8<br>
-ATtiny104 SO14
+ATtiny104 SO14<br>
+Atmel SAMD09C13A<br>
+Bussed Resistor 5SIP<br>
+20-pin (10x2) 0.1" Header<br>
+PIC32MZ1024EFK064
